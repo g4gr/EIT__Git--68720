@@ -1,1 +1,1 @@
-console.log( 'Se abrio la pagina!' )
+console.log( 'Hola desde la consola!' )
